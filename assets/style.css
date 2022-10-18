@@ -1,0 +1,19 @@
+#card {
+    display: flex;
+    justify-content: center;
+    /* border:1px solid black; */
+}
+
+#photo {
+    margin: auto 0;
+    border:1px solid black;
+    /* flex-grow: 1; */ 
+}
+
+/* #chair { 
+    border:1px solid red;
+}
+
+#comment { 
+    border:1px solid black;
+} */
